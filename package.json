@@ -16,6 +16,7 @@
     "url": "https://github.com/Evey-Vendetta/simple-preview/issues"
   },
   "homepage": "https://github.com/Evey-Vendetta/simple-preview#readme",
+  "icon": "icon.png",
   "engines": { "vscode": "^1.80.0" },
   "categories": ["Other"],
   "keywords": ["html", "preview", "simple browser", "live preview", "static server"],

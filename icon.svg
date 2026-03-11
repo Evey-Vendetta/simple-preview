@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- Background: rounded square -->
+  <rect x="4" y="4" width="120" height="120" rx="20" fill="#1E1E2E"/>
+
+  <!-- Browser chrome -->
+  <rect x="18" y="22" width="92" height="72" rx="8" fill="#2D2D44" stroke="#5B8DED" stroke-width="2.5"/>
+
+  <!-- Title bar -->
+  <rect x="18" y="22" width="92" height="18" rx="8" fill="#5B8DED"/>
+  <rect x="18" y="32" width="92" height="8" fill="#5B8DED"/>
+
+  <!-- Traffic dots -->
+  <circle cx="30" cy="31" r="3" fill="#1E1E2E" opacity="0.5"/>
+  <circle cx="40" cy="31" r="3" fill="#1E1E2E" opacity="0.5"/>
+  <circle cx="50" cy="31" r="3" fill="#1E1E2E" opacity="0.5"/>
+
+  <!-- HTML bracket < /> in the browser body -->
+  <text x="64" y="76" text-anchor="middle" font-family="monospace" font-weight="700" font-size="28" fill="#5B8DED" opacity="0.9">&lt;/&gt;</text>
+
+  <!-- Play/preview triangle -->
+  <polygon points="90,96 104,105 90,114" fill="#5B8DED" opacity="0.85"/>
+</svg>
