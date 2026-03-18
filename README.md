@@ -1,8 +1,8 @@
 # Preview in Simple Browser
 
-[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/evey-vendetta.simple-preview)](https://marketplace.visualstudio.com/items?itemName=evey-vendetta.simple-preview)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/evey-vendetta.simple-preview)](https://marketplace.visualstudio.com/items?itemName=evey-vendetta.simple-preview)
-[![Stars](https://img.shields.io/github/stars/Evey-Vendetta/simple-preview)](https://github.com/Evey-Vendetta/simple-preview/stargazers)
+[![Open VSX Version](https://img.shields.io/open-vsx/v/evey-vendetta/simple-preview)](https://open-vsx.org/extension/evey-vendetta/simple-preview)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/evey-vendetta/simple-preview)](https://open-vsx.org/extension/evey-vendetta/simple-preview)
+[![GitHub Stars](https://img.shields.io/github/stars/Evey-Vendetta/simple-preview)](https://github.com/Evey-Vendetta/simple-preview/stargazers)
 [![License](https://img.shields.io/github/license/Evey-Vendetta/simple-preview)](LICENSE)
 
 Right-click any HTML file in the Explorer to preview it in VS Code's built-in Simple Browser.
